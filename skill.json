@@ -1,0 +1,17 @@
+{
+  "name": "genpark-borda-count-condorcet-social-choice-voting-skill",
+  "version": "1.0.0",
+  "description": "Autonomous Agent Borda Count & Condorcet Winner Social Choice Collective Decision Engine",
+  "entry_point": "client.py",
+  "example": "example_usage.py",
+  "mcp_server": "mcp_server.py",
+  "dependencies": [],
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "multi-agent-systems",
+    "social-choice",
+    "borda-count",
+    "condorcet-winner"
+  ]
+}
